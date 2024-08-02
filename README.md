@@ -44,6 +44,7 @@
     - [Zfill](#zfill)
     - [Encode](#encode)
     - [Decode](#decode)
+  - [Pemdas](#pemdas)
 
 ## Instalación
 
@@ -283,3 +284,14 @@ Devuelve una versión decodificada de los bytes.
 ```python
 b'hola'.decode()  # 'hola'
 ```
+
+## Pemdas
+
+P -> Paréntesis
+E -> Exponenciación
+M -> Multiplicación
+D -> División
+A -> Adición
+S -> Sustracción
+
+
